@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.1"
+  },
+  "name": "b-web-200-bar-2-1-epytodo-joan-pau.merida-ruiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel",
+  "license": "ISC",
+  "description": "Backend for Epytodo",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
